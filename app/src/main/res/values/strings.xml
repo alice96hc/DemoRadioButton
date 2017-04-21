@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Demo RadioButton</string>
+    <string name="radioButton1">Do</string>
+    <string name="radioButton2">Re</string>
+    <string name="radioButton3">Me</string>
+    <string name="button">OK</string>
 </resources>
